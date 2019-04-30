@@ -19,10 +19,10 @@
  *
  */
 
-#define DEVICE_MANUFACTURER "David B Brown"
+#define DEVICE_MANUFACTURER "Quang Nguyen"
 #define DEVICE_NAME "Air-Quality"
 #define DEVICE_MODEL "1"
-#define DEVICE_SERIAL "12345678"
+#define DEVICE_SERIAL "16091988"
 #define FW_VERSION "1.0"
 #define TEMPERATURE_SENSOR_PIN 4
 #define TEMPERATURE_POLL_PERIOD 10000
